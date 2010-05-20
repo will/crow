@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email = "will@bitfission.com"
   s.homepage = "http://github.com/will/crow"
   s.summary = "Easy API mocking with Crow"
-  s.description = "Intended to be used with Artifice or ShamRack"
+  s.description = "Easy API mocking with Crow!"
 
   s.files = FileList['lib/*.rb', 'spec/*.rb'].to_a
   s.add_dependency('sinatra')
