@@ -3,7 +3,7 @@ require 'rake'
 
 Gem::Specification.new do |s|
   s.name = "crow"
-  s.version = "0.1"
+  s.version = "0.1.1"
   s.authors = "Will Leinweber"
   s.email = "will@bitfission.com"
   s.homepage = "http://github.com/will/crow"
